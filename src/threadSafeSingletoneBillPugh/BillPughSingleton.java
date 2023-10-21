@@ -1,6 +1,6 @@
-package package1;
+package threadSafeSingletoneBillPugh;
 
-public class Homework12 {
+public class BillPughSingleton {
 
     public static void main(String[] args) {
         System.out.println("If you see the same value of \"System start\", then singleton was reused (yay!)" + "\n" +

@@ -1,4 +1,4 @@
-package package1;
+package threadSafeSingletoneBillPugh;
 
 import java.util.Date;
 
